@@ -9,7 +9,7 @@ public class Hard_Assert {
 @Test
 public void show1()
 {
-	System.out.println("test1----------");
+	System.out.println("test1----------1");
 	Assert.assertEquals(data,"sanket");
 	System.out.println("test2----------");
 }
